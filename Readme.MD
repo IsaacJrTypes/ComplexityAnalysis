@@ -2,11 +2,11 @@
 
 Projects to Cover
 
-A) Doraemon's Magic Pocket
+A) [Doraemon's Magic Pocket](https://github.com/IsaacJrTypes/MagicPocket/blob/main/src/Main.java)
 
-B) Project 1: Popular Songs of 2023 By release year (only cover reading from CSV file and storying to array
+B) [Project 1: Popular Songs of 2023 By release year (only cover reading from CSV file and storying to array](https://github.com/IsaacJrTypes/Spotify-Song-2023v2/blob/main/src/SongManager.java#L198)
  
-C) a recursion and memoization in Baskin Robbins 31 game
+C) [Recursion and memoization in Baskin Robbins 31 game](https://github.com/IsaacJrTypes/Baskin_31_Game)
 
 # Time Complexity
 A) Time Complexity is O(n) because worst case scenario if new array created and copied elements to new (longer) array.
